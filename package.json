@@ -2,12 +2,13 @@
   "name": "my-future-job",
   "version": "0.0.0",
   "description": "Parsing a list of universities for a particular discipline",
-  "main": "lib/parser.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./lib/index.js -w lib"
   },
   "repository": {
     "type": "git",
