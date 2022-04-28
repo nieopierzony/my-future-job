@@ -1,0 +1,30 @@
+{
+  "name": "my-future-job",
+  "version": "0.0.0",
+  "description": "Parsing a list of universities for a particular discipline",
+  "main": "lib/parser.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nieopierzony/my-future-job.git"
+  },
+  "keywords": [
+    "computer-science",
+    "parser",
+    "universities",
+    "node",
+    "fetch",
+    "es6"
+  ],
+  "author": "Philipp Zelinski (philipp.zelinski@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nieopierzony/my-future-job/issues"
+  },
+  "homepage": "https://github.com/nieopierzony/my-future-job#readme"
+}
