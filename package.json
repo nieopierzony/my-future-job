@@ -26,5 +26,13 @@
   "bugs": {
     "url": "https://github.com/nieopierzony/my-future-job/issues"
   },
-  "homepage": "https://github.com/nieopierzony/my-future-job#readme"
+  "homepage": "https://github.com/nieopierzony/my-future-job#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
+  }
 }
