@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./lib/index.js -w lib"
+    "dev:parse": "nodemon ./lib/index.js -w lib",
+    "dev:markup": "reload --dir public"
   },
   "repository": {
     "type": "git",
