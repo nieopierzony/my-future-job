@@ -1,0 +1,43 @@
+{
+  "name": "my-future-job",
+  "version": "0.0.0",
+  "description": "Parsing a list of universities for a particular discipline",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./lib/index.js -w lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nieopierzony/my-future-job.git"
+  },
+  "keywords": [
+    "computer-science",
+    "parser",
+    "universities",
+    "node",
+    "fetch",
+    "es6"
+  ],
+  "author": "Philipp Zelinski (philipp.zelinski@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nieopierzony/my-future-job/issues"
+  },
+  "homepage": "https://github.com/nieopierzony/my-future-job#readme",
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "nodemon": "^2.0.15",
+    "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "form-data": "^4.0.0"
+  }
+}
