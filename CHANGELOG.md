@@ -2,6 +2,9 @@
 
 ## [Unreleased][unreleased]
 
+- Install reload module as dev dependency to make markup developing easier
+- Add scripts to run reload
+
 ## [0.1.0][] - 2022-05-01
 
 - Init npm
