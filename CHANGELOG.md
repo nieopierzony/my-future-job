@@ -8,6 +8,8 @@
 - Create custom `fetch()`
 - Support `form-data` in `fetch()`
 - Create `objectToFormData()` in lib/util to easy convert JSON into form data
+- Installed cheerio for easy HTML parsing
+- Create parser that scrapes university names
 
 ## [0.0.0][] - 2022-04-28
 
