@@ -2,6 +2,8 @@
 
 ## [Unreleased][unreleased]
 
+## [0.1.0][] - 2022-05-01
+
 - Init npm
 - Installed linter, formatter, nodemon as dev dependencies
 - Create `parseJSON()` function with try...catch block
@@ -10,6 +12,7 @@
 - Create `objectToFormData()` in lib/util to easy convert JSON into form data
 - Installed cheerio for easy HTML parsing
 - Create parser that scrapes university names
+- Create parser caller script
 
 ## [0.0.0][] - 2022-04-28
 

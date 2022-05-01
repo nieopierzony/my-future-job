@@ -1,6 +1,6 @@
 {
   "name": "my-future-job",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Parsing a list of universities for a particular discipline",
   "main": "lib/index.js",
   "directories": {
